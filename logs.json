@@ -1,134 +1,170 @@
 {
     "logs": [
         {
-            "timestamp": "2026-02-25 20:25:56",
+            "timestamp": "2026-02-25 20:25:36",
             "message": "[PROCESSING] Fetching feed: https://techcrunch.com/category/artificial-intelligence/feed/"
         },
         {
-            "timestamp": "2026-02-25 20:25:56",
-            "message": "[SKIP] DUPLICATE: India’s AI boom pushes firms to trade near-term revenue for users"
+            "timestamp": "2026-02-25 20:25:36",
+            "message": "[PROCESSING] Evaluating AI on: India’s AI boom pushes firms to trade near-term revenue for users"
         },
         {
-            "timestamp": "2026-02-25 20:25:56",
+            "timestamp": "2026-02-25 20:25:40",
+            "message": "[SUCCESS] ADDED: 인도의 AI 붐이 기업들로 하여금 단기 수익보다 사용자 확보를 선택하게 한다"
+        },
+        {
+            "timestamp": "2026-02-25 20:25:40",
             "message": "[PROCESSING] Evaluating AI on: Nvidia challenger AI chip startup MatX raised $500M"
         },
         {
-            "timestamp": "2026-02-25 20:25:58",
-            "message": "[SKIP] FILTER REJECTED: Nvidia challenger AI chip startup MatX raised $500M"
+            "timestamp": "2026-02-25 20:25:43",
+            "message": "[SUCCESS] ADDED: 엔비디아의 경쟁자 AI 칩 스타트업 MatX, 5억 달러 모금"
         },
         {
-            "timestamp": "2026-02-25 20:25:58",
+            "timestamp": "2026-02-25 20:25:43",
             "message": "[PROCESSING] Evaluating AI on: Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model"
         },
         {
-            "timestamp": "2026-02-25 20:26:00",
+            "timestamp": "2026-02-25 20:25:45",
             "message": "[SKIP] FILTER REJECTED: Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model"
         },
         {
-            "timestamp": "2026-02-25 20:26:00",
-            "message": "[SKIP] DUPLICATE: Uber engineers built an AI version of their boss"
+            "timestamp": "2026-02-25 20:25:45",
+            "message": "[PROCESSING] Evaluating AI on: Uber engineers built an AI version of their boss"
         },
         {
-            "timestamp": "2026-02-25 20:26:00",
+            "timestamp": "2026-02-25 20:25:48",
+            "message": "[SUCCESS] ADDED: 우버 엔지니어들이 CEO의 AI 버전을 만들었다"
+        },
+        {
+            "timestamp": "2026-02-25 20:25:48",
             "message": "[PROCESSING] Evaluating AI on: Anthropic won’t budge as Pentagon escalates AI dispute"
         },
         {
-            "timestamp": "2026-02-25 20:26:01",
+            "timestamp": "2026-02-25 20:25:50",
             "message": "[SKIP] FILTER REJECTED: Anthropic won’t budge as Pentagon escalates AI dispute"
         },
         {
-            "timestamp": "2026-02-25 20:26:01",
+            "timestamp": "2026-02-25 20:25:50",
             "message": "[PROCESSING] Evaluating AI on: Google adds a way to create automated workflows to Opal"
         },
         {
-            "timestamp": "2026-02-25 20:26:03",
+            "timestamp": "2026-02-25 20:25:52",
             "message": "[SKIP] FILTER REJECTED: Google adds a way to create automated workflows to Opal"
         },
         {
-            "timestamp": "2026-02-25 20:26:03",
+            "timestamp": "2026-02-25 20:25:52",
             "message": "[PROCESSING] Evaluating AI on: OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’"
         },
         {
-            "timestamp": "2026-02-25 20:26:07",
-            "message": "[SUCCESS] ADDED: OpenAI COO는 \"AI가 기업 비즈니스 프로세스에 실제로 침투한 적이 없다\"고 말하다"
+            "timestamp": "2026-02-25 20:25:53",
+            "message": "[SKIP] FILTER REJECTED: OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’"
         },
         {
-            "timestamp": "2026-02-25 20:26:07",
+            "timestamp": "2026-02-25 20:25:53",
             "message": "[PROCESSING] Evaluating AI on: Music generator ProducerAI joins Google Labs"
         },
         {
-            "timestamp": "2026-02-25 20:26:09",
+            "timestamp": "2026-02-25 20:25:55",
             "message": "[SKIP] FILTER REJECTED: Music generator ProducerAI joins Google Labs"
         },
         {
-            "timestamp": "2026-02-25 20:26:09",
-            "message": "[SKIP] DUPLICATE: Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’"
+            "timestamp": "2026-02-25 20:25:55",
+            "message": "[PROCESSING] Evaluating AI on: Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’"
         },
         {
-            "timestamp": "2026-02-25 20:26:09",
-            "message": "[SKIP] DUPLICATE: Oura launches a proprietary AI model focused on women’s health"
+            "timestamp": "2026-02-25 20:26:00",
+            "message": "[SUCCESS] ADDED: 메타, '개인 슈퍼인텔리전스' 추구하며 최대 1000억 달러 규모의 AMD 칩 계약 체결"
         },
         {
-            "timestamp": "2026-02-25 20:26:09",
+            "timestamp": "2026-02-25 20:26:00",
+            "message": "[PROCESSING] Evaluating AI on: Oura launches a proprietary AI model focused on women’s health"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:03",
+            "message": "[SUCCESS] ADDED: 오라, 여성 건강에 초점을 맞춘 독자적인 AI 모델 출시"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:03",
             "message": "[PROCESSING] Evaluating AI on: Final 4 days to save up to $680 on your TechCrunch Disrupt 2026 pass"
         },
         {
-            "timestamp": "2026-02-25 20:26:10",
+            "timestamp": "2026-02-25 20:26:05",
             "message": "[SKIP] FILTER REJECTED: Final 4 days to save up to $680 on your TechCrunch Disrupt 2026 pass"
         },
         {
-            "timestamp": "2026-02-25 20:26:10",
+            "timestamp": "2026-02-25 20:26:05",
             "message": "[PROCESSING] Evaluating AI on: Anthropic launches new push for enterprise agents with plug-ins for finance, engineering, and design"
         },
         {
-            "timestamp": "2026-02-25 20:26:12",
+            "timestamp": "2026-02-25 20:26:06",
             "message": "[SKIP] FILTER REJECTED: Anthropic launches new push for enterprise agents with plug-ins for finance, engineering, and design"
         },
         {
-            "timestamp": "2026-02-25 20:26:12",
-            "message": "[SKIP] DUPLICATE: New Relic launches new AI agent platform and OpenTelemetry tools"
+            "timestamp": "2026-02-25 20:26:06",
+            "message": "[PROCESSING] Evaluating AI on: New Relic launches new AI agent platform and OpenTelemetry tools"
         },
         {
-            "timestamp": "2026-02-25 20:26:12",
-            "message": "[SKIP] DUPLICATE: Nimble raises $47M to give AI agents access to real-time web data"
+            "timestamp": "2026-02-25 20:26:09",
+            "message": "[SUCCESS] ADDED: 뉴렐릭, 새로운 AI 에이전트 플랫폼 및 OpenTelemetry 도구 출시"
         },
         {
-            "timestamp": "2026-02-25 20:26:12",
+            "timestamp": "2026-02-25 20:26:09",
+            "message": "[PROCESSING] Evaluating AI on: Nimble raises $47M to give AI agents access to real-time web data"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:13",
+            "message": "[SUCCESS] ADDED: 님블, AI 에이전트에 실시간 웹 데이터 접근을 위한 4700만 달러 유치"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:13",
             "message": "[PROCESSING] Evaluating AI on: Canva acquires startups working on animation and marketing"
         },
         {
-            "timestamp": "2026-02-25 20:26:14",
+            "timestamp": "2026-02-25 20:26:15",
             "message": "[SKIP] FILTER REJECTED: Canva acquires startups working on animation and marketing"
         },
         {
-            "timestamp": "2026-02-25 20:26:14",
-            "message": "[SKIP] DUPLICATE: A Meta AI security researcher said an OpenClaw agent ran amok on her inbox"
-        },
-        {
-            "timestamp": "2026-02-25 20:26:14",
-            "message": "[PROCESSING] Evaluating AI on: With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic"
-        },
-        {
-            "timestamp": "2026-02-25 20:26:17",
-            "message": "[SKIP] FILTER REJECTED: With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic"
-        },
-        {
-            "timestamp": "2026-02-25 20:26:17",
-            "message": "[SKIP] DUPLICATE: Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports"
-        },
-        {
-            "timestamp": "2026-02-25 20:26:17",
-            "message": "[SKIP] DUPLICATE: Google’s Cloud AI leads on the three frontiers of model capability"
-        },
-        {
-            "timestamp": "2026-02-25 20:26:17",
-            "message": "[PROCESSING] Evaluating AI on: OpenAI calls in the consultants for its enterprise push"
+            "timestamp": "2026-02-25 20:26:15",
+            "message": "[PROCESSING] Evaluating AI on: A Meta AI security researcher said an OpenClaw agent ran amok on her inbox"
         },
         {
             "timestamp": "2026-02-25 20:26:20",
+            "message": "[SUCCESS] ADDED: 메타 AI 보안 연구원이 오픈클로우 에이전트가 그녀의 이메일함에서 난동을 부렸다고 말했다"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:20",
+            "message": "[PROCESSING] Evaluating AI on: With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:22",
+            "message": "[SKIP] FILTER REJECTED: With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:22",
+            "message": "[PROCESSING] Evaluating AI on: Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:27",
+            "message": "[SUCCESS] ADDED: 앤트로픽, 미국이 AI 칩 수출을 논의하는 가운데 중국 AI 연구소들이 클로드를 채굴했다고 주장"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:27",
+            "message": "[PROCESSING] Evaluating AI on: Google’s Cloud AI leads on the three frontiers of model capability"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:32",
+            "message": "[SUCCESS] ADDED: 구글의 클라우드 AI, 모델 능력의 세 가지 최전선에서 선도하다"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:32",
+            "message": "[PROCESSING] Evaluating AI on: OpenAI calls in the consultants for its enterprise push"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:34",
             "message": "[SKIP] FILTER REJECTED: OpenAI calls in the consultants for its enterprise push"
         }
     ],
     "status": "idle",
-    "last_updated": "2026-02-25T20:26:31.925387"
+    "last_updated": "2026-02-25T20:26:43.741968"
 }
