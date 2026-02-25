@@ -1,0 +1,92 @@
+[
+    {
+        "id": "7185b533-47da-4885-945c-20a7f1f1e67f",
+        "date": "2026-02-25",
+        "timestamp": "2026-02-25T02:00:00",
+        "title": "인도의 AI 붐이 기업들로 하여금 단기 수익보다 사용자 확보를 선택하게 하다",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "summary": "- 인도의 AI 사용자 수가 급증하고 있다.\n- ChatGPT와 경쟁사들이 무료 제공이 종료됨에 따라 유료 고객으로 전환할 수 있는지 시험하고 있다.\n- 기업들은 단기 수익을 포기하고 사용자 기반을 확대하는 전략을 채택하고 있다.\n- AI 시장의 성장 가능성을 고려하여 장기적인 관점에서 접근하고 있다.",
+        "link": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+        "original_title": "India’s AI boom pushes firms to trade near-term revenue for users"
+    },
+    {
+        "id": "3e58bebf-483c-429c-86ec-4c887af4900d",
+        "date": "2026-02-24",
+        "timestamp": "2026-02-24T23:09:28",
+        "title": "우버 엔지니어들이 CEO의 AI 버전을 만들다",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "summary": "- 우버 CEO 다라 코스로샤히는 직원들이 AI에 전념하고 있다고 언급함.  \n- 직원들은 CEO의 챗봇을 만들어 프레젠테이션 연습에 활용하고 있음.  \n- 이 챗봇은 CEO의 목소리와 스타일을 모방하여 개발됨.  \n- AI 기술을 통해 직원들의 업무 효율성을 높이려는 노력이 강조됨.  \n- 우버는 AI를 활용한 혁신적인 접근 방식을 지속적으로 추진하고 있음.",
+        "link": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+        "original_title": "Uber engineers built an AI version of their boss"
+    },
+    {
+        "id": "9b076b18-e637-4a91-a26f-b1d9c7eaf36f",
+        "date": "2026-02-24",
+        "timestamp": "2026-02-24T15:15:16",
+        "title": "메타, '개인 슈퍼인텔리전스' 추구하며 최대 1000억 달러 규모의 AMD 칩 계약 체결",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "summary": "- 메타가 AMD AI 칩을 수십억 달러에 구매하는 다년 계약을 체결했다.\n- 이 계약은 1억 6천만 주의 워런트와 연관되어 있다.\n- 메타는 엔비디아에 대한 의존도를 줄이고 데이터 센터 용량을 확장하려고 한다.\n- 이번 계약은 메타의 인공지능 기술 개발에 중요한 이정표가 될 것으로 보인다.",
+        "link": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
+        "original_title": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’"
+    },
+    {
+        "id": "28362937-67bb-4e51-82a7-9c3b68f74a99",
+        "date": "2026-02-24",
+        "timestamp": "2026-02-24T15:08:01",
+        "title": "오라, 여성 건강에 초점을 맞춘 독자적인 AI 모델 출시",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "summary": "- 오라가 여성 건강을 위한 독자적인 AI 모델을 출시했다.\n- 이 모델은 생리 주기 초기부터 폐경까지의 전반적인 생식 건강 질문을 지원한다.\n- 여성의 건강 관리에 도움을 줄 수 있는 다양한 기능을 제공한다.\n- AI 기술을 활용하여 개인 맞춤형 건강 정보를 제공한다.",
+        "link": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
+        "original_title": "Oura launches a proprietary AI model focused on women’s health"
+    },
+    {
+        "id": "c000c988-f91e-4369-a320-7a290a7f3630",
+        "date": "2026-02-24",
+        "timestamp": "2026-02-24T14:00:00",
+        "title": "뉴 렐릭, 새로운 AI 에이전트 플랫폼 및 OpenTelemetry 도구 출시",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "summary": "- 뉴 렐릭이 기업을 위한 새로운 관측 도구를 출시함.\n- 기업들이 AI 에이전트를 생성하고 관리할 수 있도록 지원.\n- OpenTelemetry 데이터 스트림과의 통합을 개선함.\n- 이러한 도구들은 기업의 데이터 관리를 향상시키는 데 기여할 것으로 기대됨.",
+        "link": "https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/",
+        "original_title": "New Relic launches new AI agent platform and OpenTelemetry tools"
+    },
+    {
+        "id": "7a3854d8-cd69-49cd-a326-8582126297f7",
+        "date": "2026-02-24",
+        "timestamp": "2026-02-24T13:00:00",
+        "title": "님블, AI 에이전트에 실시간 웹 데이터 접근을 제공하기 위해 4700만 달러 모금",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "summary": "- 님블은 AI 에이전트를 활용하여 웹을 검색하고 결과를 검증 및 확인합니다.\n- 수집된 정보는 정리되어 깔끔한 테이블 형태로 변환됩니다.\n- 이러한 테이블은 데이터베이스처럼 쿼리할 수 있습니다.\n- 최근 4700만 달러의 자금을 모금하여 기술 개발을 지원합니다.",
+        "link": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
+        "original_title": "Nimble raises $47M to give AI agents access to real-time web data"
+    },
+    {
+        "id": "d20af17f-2fff-4407-baa7-245a072703dc",
+        "date": "2026-02-24",
+        "timestamp": "2026-02-24T00:57:14",
+        "title": "메타 AI 보안 연구원이 오픈클로우 에이전트가 그녀의 이메일을 난장판으로 만들었다고 말했다",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "summary": "- 메타의 AI 보안 연구원이 올린 X 포스트가 화제가 되고 있다.\n- 이 포스트는 AI 에이전트에게 작업을 맡길 때 발생할 수 있는 문제에 대한 경고를 담고 있다.\n- 내용은 풍자처럼 보이지만 실제로는 심각한 문제를 지적하고 있다.\n- AI 에이전트의 관리와 통제의 중요성을 강조하고 있다.",
+        "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+        "original_title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox"
+    },
+    {
+        "id": "dc784a8a-e1b8-4efc-a21f-206bfccc2dce",
+        "date": "2026-02-23",
+        "timestamp": "2026-02-23T19:57:27",
+        "title": "앤트로픽, 중국 AI 연구소가 클로드의 능력을 채굴했다고 주장하며 미국이 AI 칩 수출을 논의 중",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "summary": "- 앤트로픽은 DeepSeek, Moonshot, MiniMax가 24,000개의 가짜 계정을 사용하여 클로드의 AI 능력을 추출했다고 주장함.\n- 미국 정부는 중국의 AI 발전을 늦추기 위한 수출 통제에 대해 논의 중임.\n- 이러한 주장과 논의는 AI 기술의 국제 경쟁을 반영하고 있음.\n- 클로드는 앤트로픽의 AI 모델로, 그 능력에 대한 관심이 높아지고 있음.",
+        "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+        "original_title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports"
+    },
+    {
+        "id": "59a74405-3bd3-42b5-a384-a6cb438d595b",
+        "date": "2026-02-23",
+        "timestamp": "2026-02-23T19:18:42",
+        "title": "구글의 클라우드 AI, 모델 능력의 세 가지 최전선에서 선도하다",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "summary": "- AI 모델은 세 가지 최전선에서 동시에 발전하고 있다: 기본 지능, 응답 시간, 그리고 \"확장성\"이라 부를 수 있는 세 번째 품질.  \n- 구글 클라우드 AI는 이러한 모델 능력에서 선도적인 역할을 하고 있다.  \n- 각 최전선은 AI의 효율성과 유용성을 향상시키는 데 중요한 요소로 작용한다.  \n- AI 기술의 발전은 다양한 산업에 긍정적인 영향을 미칠 것으로 기대된다.  \n- 이러한 발전은 기업들이 AI를 더 효과적으로 활용할 수 있는 기반을 마련해준다.",
+        "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+        "original_title": "Google’s Cloud AI leads on the three frontiers of model capability"
+    }
+]
