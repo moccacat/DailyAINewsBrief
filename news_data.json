@@ -88,5 +88,15 @@
         "summary": "- AI 모델은 세 가지 최전선에서 동시에 발전하고 있다: 기본 지능, 응답 시간, 그리고 \"확장성\"이라 부를 수 있는 세 번째 품질.  \n- 구글 클라우드 AI는 이러한 모델 능력에서 선도적인 역할을 하고 있다.  \n- 각 최전선은 AI의 효율성과 유용성을 향상시키는 데 중요한 요소로 작용한다.  \n- AI 기술의 발전은 다양한 산업에 긍정적인 영향을 미칠 것으로 기대된다.  \n- 이러한 발전은 기업들이 AI를 더 효과적으로 활용할 수 있는 기반을 마련해준다.",
         "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
         "original_title": "Google’s Cloud AI leads on the three frontiers of model capability"
+    },
+    {
+        "id": "ce38a48b-68b8-4ab0-aea3-feb339e83907",
+        "date": "2026-02-24",
+        "timestamp": "2026-02-24T17:44:34",
+        "title": "OpenAI COO는 \"AI가 기업 비즈니스 프로세스에 실제로 침투한 적이 없다\"고 말하다",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "summary": "- OpenAI COO는 AI 에이전트가 비즈니스 프로세스를 장악할 것이라는 주장에 대해 언급했다.\n- \"SaaS는 죽었다\"는 예측이 있지만, 실제로는 그러한 변화가 일어나지 않았다고 강조했다.\n- 이러한 예측은 때때로 SaaS 주식에 영향을 미쳤지만, 현실에서는 실현되지 않았다.",
+        "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
+        "original_title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’"
     }
 ]
