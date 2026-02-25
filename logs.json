@@ -1,4 +1,134 @@
 {
-    "logs": [],
-    "status": "running"
+    "logs": [
+        {
+            "timestamp": "2026-02-25 20:25:56",
+            "message": "[PROCESSING] Fetching feed: https://techcrunch.com/category/artificial-intelligence/feed/"
+        },
+        {
+            "timestamp": "2026-02-25 20:25:56",
+            "message": "[SKIP] DUPLICATE: India’s AI boom pushes firms to trade near-term revenue for users"
+        },
+        {
+            "timestamp": "2026-02-25 20:25:56",
+            "message": "[PROCESSING] Evaluating AI on: Nvidia challenger AI chip startup MatX raised $500M"
+        },
+        {
+            "timestamp": "2026-02-25 20:25:58",
+            "message": "[SKIP] FILTER REJECTED: Nvidia challenger AI chip startup MatX raised $500M"
+        },
+        {
+            "timestamp": "2026-02-25 20:25:58",
+            "message": "[PROCESSING] Evaluating AI on: Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:00",
+            "message": "[SKIP] FILTER REJECTED: Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:00",
+            "message": "[SKIP] DUPLICATE: Uber engineers built an AI version of their boss"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:00",
+            "message": "[PROCESSING] Evaluating AI on: Anthropic won’t budge as Pentagon escalates AI dispute"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:01",
+            "message": "[SKIP] FILTER REJECTED: Anthropic won’t budge as Pentagon escalates AI dispute"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:01",
+            "message": "[PROCESSING] Evaluating AI on: Google adds a way to create automated workflows to Opal"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:03",
+            "message": "[SKIP] FILTER REJECTED: Google adds a way to create automated workflows to Opal"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:03",
+            "message": "[PROCESSING] Evaluating AI on: OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:07",
+            "message": "[SUCCESS] ADDED: OpenAI COO는 \"AI가 기업 비즈니스 프로세스에 실제로 침투한 적이 없다\"고 말하다"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:07",
+            "message": "[PROCESSING] Evaluating AI on: Music generator ProducerAI joins Google Labs"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:09",
+            "message": "[SKIP] FILTER REJECTED: Music generator ProducerAI joins Google Labs"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:09",
+            "message": "[SKIP] DUPLICATE: Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:09",
+            "message": "[SKIP] DUPLICATE: Oura launches a proprietary AI model focused on women’s health"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:09",
+            "message": "[PROCESSING] Evaluating AI on: Final 4 days to save up to $680 on your TechCrunch Disrupt 2026 pass"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:10",
+            "message": "[SKIP] FILTER REJECTED: Final 4 days to save up to $680 on your TechCrunch Disrupt 2026 pass"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:10",
+            "message": "[PROCESSING] Evaluating AI on: Anthropic launches new push for enterprise agents with plug-ins for finance, engineering, and design"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:12",
+            "message": "[SKIP] FILTER REJECTED: Anthropic launches new push for enterprise agents with plug-ins for finance, engineering, and design"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:12",
+            "message": "[SKIP] DUPLICATE: New Relic launches new AI agent platform and OpenTelemetry tools"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:12",
+            "message": "[SKIP] DUPLICATE: Nimble raises $47M to give AI agents access to real-time web data"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:12",
+            "message": "[PROCESSING] Evaluating AI on: Canva acquires startups working on animation and marketing"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:14",
+            "message": "[SKIP] FILTER REJECTED: Canva acquires startups working on animation and marketing"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:14",
+            "message": "[SKIP] DUPLICATE: A Meta AI security researcher said an OpenClaw agent ran amok on her inbox"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:14",
+            "message": "[PROCESSING] Evaluating AI on: With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:17",
+            "message": "[SKIP] FILTER REJECTED: With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:17",
+            "message": "[SKIP] DUPLICATE: Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:17",
+            "message": "[SKIP] DUPLICATE: Google’s Cloud AI leads on the three frontiers of model capability"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:17",
+            "message": "[PROCESSING] Evaluating AI on: OpenAI calls in the consultants for its enterprise push"
+        },
+        {
+            "timestamp": "2026-02-25 20:26:20",
+            "message": "[SKIP] FILTER REJECTED: OpenAI calls in the consultants for its enterprise push"
+        }
+    ],
+    "status": "idle",
+    "last_updated": "2026-02-25T20:26:31.925387"
 }
