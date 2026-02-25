@@ -1,0 +1,11 @@
+{
+    "rss_urls": [
+        "https://techcrunch.com/category/artificial-intelligence/feed/"
+    ],
+    "update_interval_minutes": 180,
+    "model": "gpt-4o-mini",
+    "days_to_scrape": 3,
+    "ai_filter_prompt": "Article must be about Artificial Intelligence, Machine Learning, or related topics.",
+    "auto_scrape_enabled": true,
+    "last_scrape_time": null
+}
